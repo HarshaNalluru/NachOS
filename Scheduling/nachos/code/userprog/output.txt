@@ -1,0 +1,90 @@
+
+  1 --------CPU-UTILIZATION : 56.283318percent,  averageWait: 24409.300000------
+
+  2 --------CPU-UTILIZATION : 56.283318percent,  averageWait: 24409.300000------
+
+  3 --------CPU-UTILIZATION : 62.755076percent,  averageWait: 90656.600000------
+
+  4 --------CPU-UTILIZATION : 60.540901percent,  averageWait: 76483.500000------
+
+  5 --------CPU-UTILIZATION : 59.530872percent,  averageWait: 72893.300000------
+
+  6 --------CPU-UTILIZATION : 65.962597percent,  averageWait: 105936.400000------
+
+  7 --------CPU-UTILIZATION : 63.036352percent,  averageWait: 90084.500000------
+
+  8 --------CPU-UTILIZATION : 60.318333percent,  averageWait: 72874.600000------
+
+  9 --------CPU-UTILIZATION : 59.597858percent,  averageWait: 75328.600000------
+
+  10 --------CPU-UTILIZATION : 65.962597percent,  averageWait: 105937.400000------
+
+batch2
+
+  1 --------CPU-UTILIZATION : 82.974849percent,  averageWait: 24355.300000------
+
+
+  2 --------CPU-UTILIZATION : 82.974849percent,  averageWait: 24355.300000------
+
+  3 --------CPU-UTILIZATION : 87.785536percent,  averageWait: 85087.300000------
+
+  4 --------CPU-UTILIZATION : 87.629778percent,  averageWait: 77378.800000------
+
+  5 --------CPU-UTILIZATION : 87.136490percent,  averageWait: 72447.800000------
+
+  6 --------CPU-UTILIZATION : 88.807711percent,  averageWait: 97254.200000------
+
+  7 --------CPU-UTILIZATION : 89.187155percent,  averageWait: 90463.300000------
+
+  7 --------CPU-UTILIZATION : 89.187155percent,  averageWait: 90463.300000------
+
+  9 --------CPU-UTILIZATION : 86.744032percent,  averageWait: 72621.800000------
+
+  10 --------CPU-UTILIZATION : 88.386110percent,  averageWait: 97055.500000------
+
+batch 3
+
+  1 --------CPU-UTILIZATION : 94.850203percent,  averageWait: 24355.300000------
+
+  2 --------CPU-UTILIZATION : 94.850203percent,  averageWait: 24355.300000------
+  
+
+  3 --------CPU-UTILIZATION : 98.614251percent,  averageWait: 85091.500000------
+
+  4 --------CPU-UTILIZATION : 99.214724percent,  averageWait: 77183.600000------
+
+  5 --------CPU-UTILIZATION : 98.411224percent,  averageWait: 71450.800000------
+
+  6 --------CPU-UTILIZATION : 98.142846percent,  averageWait: 97159.500000------
+
+  7 --------CPU-UTILIZATION : 99.438372percent,  averageWait: 90140.000000------
+
+  8 --------CPU-UTILIZATION : 98.974869percent,  averageWait: 76219.700000------
+
+  9 --------CPU-UTILIZATION : 98.764200percent,  averageWait: 72248.000000------
+
+  10 --------CPU-UTILIZATION : 97.932761percent,  averageWait: 97067.200000------
+
+ batch4
+ 
+
+  2 --------CPU-UTILIZATION : 100.000000percent,  averageWait: 36577.000000------
+
+  3 --------CPU-UTILIZATION : 100.000000percent,  averageWait: 87417.300000------
+
+  4 --------CPU-UTILIZATION : 100.000000percent,  averageWait: 76356.600000------
+
+  5 --------CPU-UTILIZATION : 100.000000percent,  averageWait: 71115.300000------
+
+  6 --------CPU-UTILIZATION : 100.000000percent,  averageWait: 109588.000000------
+
+  7 --------CPU-UTILIZATION : 100.000000percent,  averageWait: 87592.300000------
+
+  8 --------CPU-UTILIZATION : 100.000000percent,  averageWait: 76808.600000------
+
+  9 --------CPU-UTILIZATION : 100.000000percent,  averageWait: 71720.600000------
+
+  10 --------CPU-UTILIZATION : 100.000000percent,  averageWait: 109597.000000------
+
+  batch5
+  

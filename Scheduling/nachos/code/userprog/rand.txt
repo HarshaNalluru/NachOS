@@ -1,0 +1,20 @@
+
+  1 CPU-UTILIZATION : 56.283318percent,  averageWait: 24409.300000
+
+  2 CPU-UTILIZATION : 56.283318percent,  averageWait: 24409.300000
+
+  3 CPU-UTILIZATION : 62.755076percent,  averageWait: 90656.600000
+
+  4 CPU-UTILIZATION : 60.540901percent,  averageWait: 76483.500000
+
+  5 CPU-UTILIZATION : 59.530872percent,  averageWait: 72893.300000
+
+  6 CPU-UTILIZATION : 65.962597percent,  averageWait: 105936.400000
+
+  7 CPU-UTILIZATION : 63.036352percent,  averageWait: 90084.500000
+
+  8 CPU-UTILIZATION : 60.318333percent,  averageWait: 72874.600000
+
+  9 CPU-UTILIZATION : 59.597858percent,  averageWait: 75328.600000
+
+  10 CPU-UTILIZATION : 65.962597percent,  averageWait: 105937.400000

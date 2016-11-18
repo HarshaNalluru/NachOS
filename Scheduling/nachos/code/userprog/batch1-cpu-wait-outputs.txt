@@ -1,0 +1,40 @@
+running ./nachos -F batch-x.txt gives A=124
+Q1 = 31 q2 = 62, q3 = 93
+
+**************
+Table for minimum  minimum value of the quantum that offers the maximum
+achievable CPU utilization for testloop. Call this Q4.
+**************
+
+Q4 = 20
+
+**************
+Explain why you think the minimum value of quantum that you have got for
+maximum CPU utilization should actually maximize the utilization. Mention
+any downside of using such a quantum value.
+**************
+
+batch1
+1 CPU-UTILIZATION : 56.283318%  averageWait: 24409.300000
+2 CPU-UTILIZATION : 56.283318%  averageWait: 24409.300000
+3 CPU-UTILIZATION : 60.108065percent,  averageWait: 75302.200000
+4 CPU-UTILIZATION : 60.235248percent,  averageWait: 74659.200000
+5 CPU-UTILIZATION : 60.027558percent,  averageWait: 76801.100000
+6 CPU-UTILIZATION : 62.486227percent,  averageWait: 84215.300000
+7 CPU-UTILIZATION : 62.674005percent,  averageWait: 84283.100000
+8 CPU-UTILIZATION : 60.059168percent,  averageWait: 77662.700000
+9 CPU-UTILIZATION : 60.157335percent,  averageWait: 77467.000000
+10CPU-UTILIZATION : 63.445744percent,  averageWait: 82053.000000
+
+batch2
+1 CPU-UTILIZATION : 82.974849percent,  averageWait: 24355.300000
+2 CPU-UTILIZATION : 82.974849percent,  averageWait: 24355.300000
+3 CPU-UTILIZATION : 88.504943percent,  averageWait: 79458.200000
+4 CPU-UTILIZATION : 86.466096percent,  averageWait: 75082.600000
+5 CPU-UTILIZATION : 87.174537percent,  averageWait: 78433.100000
+6 CPU-UTILIZATION : 91.439654percent,  averageWait: 80080.200000
+7 CPU-UTILIZATION : 86.619143percent,  averageWait: 78048.300000
+8 CPU-UTILIZATION : 85.906820percent,  averageWait: 77741.400000
+9 CPU-UTILIZATION : 86.764720percent,  averageWait: 77136.000000
+10CPU-UTILIZATION : 87.254087percent,  averageWait: 77319.400000
+
