@@ -1,0 +1,45 @@
+code/machine/network.cc:41:    AssignNameToSocket(sockName, sock);		 // Bind socket to a filename 
+code/userprog/addrspace.cc:140:ProcessAddrSpace::ProcessAddrSpace(char *filename)
+code/userprog/addrspace.cc:150:    filename = filename;
+code/userprog/addrspace.cc:151:    openExecutable = fileSystem->Open(filename);
+code/userprog/addrspace.cc:153:    printf("Unable to open file %s\n", filename);
+code/userprog/addrspace.cc:208:        filename = parentSpace->filename;
+code/userprog/addrspace.cc:209:        openExecutable = fileSystem->Open(filename);
+code/userprog/addrspace.cc:211:        printf("Unable to open file %s\n", filename);
+code/userprog/addrspace.cc:218:    filename = parentSpace->filename;
+code/userprog/addrspace.cc:411:            printf("Unable to open file %s\n", filename);
+code/userprog/addrspace.h:26:    ProcessAddrSpace(char *filename);
+code/userprog/addrspace.h:48:    char * filename;
+code/userprog/exception.cc:367:      char * filename = this_thread->space->filename;
+code/userprog/exception.cc:368:      OpenFile *executable = fileSystem->Open(filename);
+code/userprog/exception.cc:369:      printf("%s\n",filename);
+code/userprog/progtest.cc:32:StartUserProcess(char *filename)
+code/userprog/progtest.cc:34:    OpenFile *executable = fileSystem->Open(filename);
+code/userprog/progtest.cc:38:	printf("Unable to open file %s\n", filename);
+code/userprog/progtest.cc:45:      space = new ProcessAddrSpace(filename);
+code/userprog/progtest.cc:110:ReadInputAndFork (char *filename)
+code/userprog/progtest.cc:112:   OpenFile *inFile = fileSystem->Open(filename);
+code/userprog/progtest.cc:119:      printf("Unable to open file %s\n", filename);
+code/bin/disasm.c:22:static char filename[1000] = "a.out";	/* default a.out file */
+code/bin/disasm.c:50:		strcpy(filename, argv[1]);
+code/bin/disasm.c:51:	fp = fopen(filename, "r");
+code/bin/disasm.c:54:		fprintf(stderr, "%s: Could not open '%s'\n", self, filename);
+code/bin/disasm.c:58:	load_program(filename);
+code/bin/disasm.c:88:load_program(filename)
+code/bin/disasm.c:89:char *filename;
+code/bin/disasm.c:91:	ldptr = ldopen(filename, NULL);
+code/bin/disasm.c:94:		fprintf(stderr, "%s: Load read error on %s\n", self, filename);
+code/bin/main.c:22:static char filename[1000] = "a.out";	/* default a.out file */
+code/bin/main.c:62:		strcpy(filename, argv[1]);
+code/bin/main.c:63:	fp = fopen(filename, "r");
+code/bin/main.c:66:		fprintf(stderr, "%s: Could not open '%s'\n", self, filename);
+code/bin/main.c:70:	load_program(filename);
+code/bin/main.c:92:load_program(filename)
+code/bin/main.c:93:char *filename;
+code/bin/main.c:99:	ldptr = ldopen(filename, NULL);
+code/bin/main.c:102:		fprintf(stderr, "%s: Load read error on %s\n", self, filename);
+code/bin/out.c:70:  char *filename = "a.out";
+code/bin/out.c:77:  if (argc == 2) filename = argv[1];
+code/bin/out.c:78:  if ((f = fopen(filename,"r")) == NULL) {
+code/bin/out.c:79:    printf("out: could not open %s\n",filename);
+code/bin/out.c:86:    printf("out: %s is not a MIPS Little-Endian COFF object file\n",filename);

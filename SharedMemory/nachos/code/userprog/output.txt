@@ -1,0 +1,48 @@
+1024 
+vmtest 1 
+1-1024 
+Paging: faults 464
+
+Total simulated ticks: 3267401
+
+2-1024
+1784235,
+377
+
+3-1024 
+Paging: faults 377
+
+Total simulated ticks: 1784235
+
+4-1024
+
+Paging: faults 377
+
+Total simulated ticks: 1784235
+
+
+vmtest 2
+1-1024
+Paging: faults 460
+
+Total simulated ticks: 1409153
+2-1024
+
+Paging: faults 378
+
+Total simulated ticks: 838441
+
+3-1024
+
+Paging: faults 378
+
+Total simulated ticks: 838441
+
+4-1024
+
+Paging: faults 378
+
+Total simulated ticks: 838441
+
+vmtest1
+1-128 
